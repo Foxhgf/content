@@ -1,4 +1,11 @@
-# Welcome to MDN Web Docs
+
+# {
+  "search_string": {
+    "message": "hello%20world",
+    "description": "The string we search for. Put %20 between words that go together."
+  },
+  ...
+} to MDN Web Docs
 
 ![github-profile](https://user-images.githubusercontent.com/10350960/166113119-629295f6-c282-42c9-9379-af2de5ad4338.png)
 
