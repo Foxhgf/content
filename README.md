@@ -1,7 +1,25 @@
+fix-referrer
+الحجم الإجمالي للنسخة الرئيسية/العام/النسخة المبنية: 668.60 كيلوبايت
+الحجم الإجمالي للنسخة العامة/النسخة المبنية: 668.66 كيلوبايت
+
+الفرق: 56 ب
+
+تغييرات ملحوظة...
+
+_shared/chunk.js: 428356 (418.32 كيلوبايت) -> 428430 (418.39 كيلوبايت) (74 بايت) (تم التغيير)
+    routes/search.js: 5109 (4.99 كيلوبايت) -> 5091 (4.97 كيلوبايت) (-18 بايت) (تم التغيير
 # Welcome to MDN Web Docs
 https://github.com/microsoft/vscode/commit/ba50d3b212caf4ed5504442493d1fd7b3e5dc140
 ![github-profile](https://user-images.githubusercontent.com/10350960/166113119-629295f6-c282-42c9-9379-af2de5ad4338.png)
+Total size of main/public/build: 668.60 KB
+Total size of public/build: 668.66 KB
 
+Difference: 56 B
+
+Notable changes...
+
+_shared/chunk.js: 428356 (418.32 KB) -> 428430 (418.39 KB) (74 B) (changed)
+routes/search.js: 5109 (4.99 KB) ->
 [MDN Web Docs][] is an open-source, collaborative project that documents web technologies including CSS, HTML, JavaScript, and Web APIs.
 Alongside detailed reference documentation, we provide extensive learning resources for students and beginners getting started with web development.
 
