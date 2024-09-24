@@ -70,3 +70,54 @@ https://github.com/Foxhgf/Foxhgf/pull/8/files
 [MDN Web Docs]: https://
 developer.mozilla.org/
 https://github.com/Foxhgf/Foxhgf.git
+{
+  "_links": {
+    "self": {
+      "href": "https://api.testnet.minepi.com/transactions/1d1f75fd0cf9eb4d2190d0b701ee2d15fb23f6e12763e5a7f0a241a1aaa36026"
+    },
+    "account": {
+      "href": "https://api.testnet.minepi.com/accounts/GD7QTGJVFDMI5KCVKLBYQYTJSMJPDZBHTSSHO3SDGYI6XJZLT5ET3GRB"
+    },
+    "ledger": {
+      "href": "https://api.testnet.minepi.com/ledgers/16893904"
+    },
+    "operations": {
+      "href": "https://api.testnet.minepi.com/transactions/1d1f75fd0cf9eb4d2190d0b701ee2d15fb23f6e12763e5a7f0a241a1aaa36026/operations{?cursor,limit,order}",
+      "templated": true
+    },
+    "effects": {
+      "href": "https://api.testnet.minepi.com/transactions/1d1f75fd0cf9eb4d2190d0b701ee2d15fb23f6e12763e5a7f0a241a1aaa36026/effects{?cursor,limit,order}",
+      "templated": true
+    },
+    "precedes": {
+      "href": "https://api.testnet.minepi.com/transactions?order=asc\u0026cursor=72558765181857792"
+    },
+    "succeeds": {
+      "href": "https://api.testnet.minepi.com/transactions?order=desc\u0026cursor=72558765181857792"
+    },
+    "transaction": {
+      "href": "https://api.testnet.minepi.com/transactions/1d1f75fd0cf9eb4d2190d0b701ee2d15fb23f6e12763e5a7f0a241a1aaa36026"
+    }
+  },
+  "id": "1d1f75fd0cf9eb4d2190d0b701ee2d15fb23f6e12763e5a7f0a241a1aaa36026",
+  "paging_token": "72558765181857792",
+  "successful": true,
+  "hash": "1d1f75fd0cf9eb4d2190d0b701ee2d15fb23f6e12763e5a7f0a241a1aaa36026",
+  "ledger": 16893904,
+  "created_at": "2024-08-25T06:41:38Z",
+  "source_account": "GD7QTGJVFDMI5KCVKLBYQYTJSMJPDZBHTSSHO3SDGYI6XJZLT5ET3GRB",
+  "source_account_sequence": "26888329223999325",
+  "fee_account": "GD7QTGJVFDMI5KCVKLBYQYTJSMJPDZBHTSSHO3SDGYI6XJZLT5ET3GRB",
+  "fee_charged": "100000",
+  "max_fee": "100000",
+  "operation_count": 1,
+  "envelope_xdr": "AAAAAgAAAAD/CZk1KNiOqFVSw4hiaZMS8eQnnKR3bkM2EeunK59JPQABhqAAX4bLAAAPXQAAAAEAAAAAAAAAAAAAAABmytLLAAAAAAAAAAEAAAAAAAAAAQAAAAD/CZk1KNiOqFVSw4hiaZMS8eQnnKR3bkM2EeunK59JPQAAAAAAAAAAAJiWgAAAAAAAAAABK59JPQAAAEDzOm/Pvzy30aIllieVi8a2Dql+CuTGyzvWTNC9OLeSOllTuBe8Ouc56YTiecHZwGA3EGpkDioALbSKgsCMLbsM",
+  "result_xdr": "AAAAAAABhqAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAA=",
+  "result_meta_xdr": "AAAAAgAAAAIAAAADAQHH0AAAAAAAAAAA/wmZNSjYjqhVUsOIYmmTEvHkJ5ykd25DNhHrpyufST0AAAAAP+ReXABfhssAAA9cAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAQHH0AAAAAAAAAAA/wmZNSjYjqhVUsOIYmmTEvHkJ5ykd25DNhHrpyufST0AAAAAP+ReXABfhssAAA9dAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=",
+  "fee_meta_xdr": "AAAAAgAAAAMBAcfEAAAAAAAAAAD/CZk1KNiOqFVSw4hiaZMS8eQnnKR3bkM2EeunK59JPQAAAAA/5eT8AF+GywAAD1wAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEBAcfQAAAAAAAAAAD/CZk1KNiOqFVSw4hiaZMS8eQnnKR3bkM2EeunK59JPQAAAAA/5F5cAF+GywAAD1wAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA==",
+  "memo_type": "none",
+  "signatures": [
+    "8zpvz788t9GiJZYnlYvGtg6pfgrkxss71kzQvTi3kjpZU7gXvDrnOemE4nnB2cBgNxBqZA4qAC20ioLAjC27DA=="
+  ],
+  "valid_after": "1970-01-01T00:00:00Z",
+  "valid_before": "2024-08-25T06:44:27Z"
